@@ -8,7 +8,7 @@ mkdir Chl
 ls -l Chl/
 
 #create an index for the genome
-bwa index ChlRef.fasta
+bwa index ChlRef.fasta 
 
 #run the alignment process for seperate forward and reverse reads
 bwa aln ChlRef.fasta ERR3402420_1.fastq.gz > Chl_1.aln.sai
