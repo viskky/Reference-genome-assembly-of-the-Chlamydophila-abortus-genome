@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #The paired read should be downloaded from ENA. Also the reference genome is provided as well. Find link in the folders provided
 #Move downloaded files to the directory path of your computer
 #Ensure that burrow wheeler aligner is installed on your computer
